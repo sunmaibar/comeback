@@ -1,0 +1,36 @@
+
+body {
+	background-color: #566a89;
+	text-align: center;
+
+
+}
+
+
+h1	{
+	padding: 0 15%;
+	
+}
+.title {
+
+	padding: 7% 15%;
+	color: #fff;
+	background-color: #4e4e4e;
+	font-family: "微軟正黑體";
+	font-weight:1700;
+
+
+}
+.btn {
+	color: #fff;
+	font-weight: 700;
+}
+.btndiv {
+	margin: 3% 18%;
+
+}
+img {
+	max-width: 1120px;
+	height: auto;
+	
+}
